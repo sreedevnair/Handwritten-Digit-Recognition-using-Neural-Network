@@ -1,4 +1,4 @@
-# Recognizing Handwritted Digits using Neural Network
+# Recognizing Handwritten Digits using Neural Network
 
 In this project, we will be creating a neural network that can regonize and predict handwritten digits. 
 
